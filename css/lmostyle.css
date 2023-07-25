@@ -1,0 +1,37 @@
+BODY       	 {font-size:10px; font-family:verdana,sans-serif; color:#666666; background-color:#f5f5f5; margin-top:15px; margin-left:0px}
+TABLE      	 {font-size:11px; font-family:verdana,sans-serif; color:#5d5d5d; background-color:#ffffff; letter-spacing: 0px}
+.navbar    	 {font-size:9px; font-family:verdana,sans-serif; color:#5d5d5d; letter-spacing: 2px; font-weight: normal; border-left:1px solid #c0c0c0; border-right:1px solid #c0c0c0}
+.navbutton   {text-decoration:none; font-weight: bold}
+.navbuttonsel   {color:#ff9900; font-weight: bold}
+.boxb        {font-size:8px; font-family:verdana,sans-serif; font-weight: bold; color:#ff9900; background-color:#ffffff; text-decoration:none; letter-spacing: 1px}
+.boxbmed     {font-size:9px; font-family:verdana,sans-serif; font-weight: bold; color:#ff9900; background-color:#ffffff; text-decoration:none; letter-spacing: 1px}
+.boxw        {font-size:10px; font-family:verdana,sans-serif; color:#ededed; background-color:#ffffff; text-decoration:none; letter-spacing: 0px; border-right:1px dotted #e5e5e5; border-bottom:1px dotted #e5e5e5; border-top:1px dotted #e5e5e5}
+.boxwmid	 	 {font-size:10px; font-family:verdana,sans-serif; color:#5d5d5d; background-color:#ffffff; text-decoration:none; letter-spacing: 0px; border-right:1px dotted #e5e5e5; border-bottom:1px dotted #e5e5e5}
+.boxwtxt     {font-size:10px; font-family:verdana,sans-serif; color:#5d5d5d; background-color:#ffffff; text-decoration:none; letter-spacing: 0px}
+.boxdwltxt   {font-size:10px; font-family:verdana,sans-serif; font-weight: normal; color:#5d5d5d; background-color:#ffffff; text-decoration:none; letter-spacing: 1px}
+.boxdwl      {font-size:10px; font-family:verdana,sans-serif; font-weight: normal; color:#5d5d5d; background-color:#ffffff; text-decoration:none; letter-spacing: 0px; border:1px dotted #e5e5e5}
+.boxmed      {font-size:10px; font-family:verdana,sans-serif; color:#5d5d5d; background-color:#ffffff; text-decoration:none; font-weight: normal; letter-spacing: 1px; border-left:1px dotted #e5e5e5; border-bottom:1px dotted #e5e5e5}
+.boxnormal   {font-size:10px; font-family:verdana,sans-serif; color:#5d5d5d; background-color:#ffffff; text-decoration:none; font-weight: normal; letter-spacing: 0px; border:1px dotted #e5e5e5}
+.mainpage    {border-left:1px solid #c0c0c0; border-right:1px solid #c0c0c0}
+.marker		 {font-weight: normal; color:#ff9900}		
+.pagebody  	 {}
+.command	    {font-size:9px; background-color:#f5f5f5; font-weight: normal; letter-spacing: 1px}
+.bodytext  	 {font-size:11px; font-family:verdana,sans-serif; border:1px dotted #e5e5e5}
+.bodytextmed {font-size:10px; font-family:verdana,sans-serif; border:1px dotted #e5e5e5}
+.bodytextsml {font-size:8px; font-family:verdana,sans-serif; border:1px dotted #e5e5e5}
+.subtitle    {font-size:10px; font-family:verdana,sans-serif; color:#6d6d6d; letter-spacing: 0px; font-weight: bold}
+.subtitlec   {font-size:9px; font-family:verdana,sans-serif; color:#6d6d6d; letter-spacing: 0px; font-weight: bold}
+.subtitled   {font-size:10px; font-family:verdana,sans-serif; letter-spacing: 0px; font-weight: bold}
+.smallfont   {font-size:8px; font-family:verdana,sans-serif; letter-spacing: 1px}
+.logofont    {font-size:8px; font-family:sans-serif; color:#006699; letter-spacing: 4px; font-weight: normal}
+.medfont	    {font-size:11px; font-family:verdana,sans-serif; color:#666666;}
+.header	     {font-size:9px; font-family:verdana,sans-serif}
+.slogan      {font-size:9px; font-family:verdana,sans-serif; color:#999999; letter-spacing: 1px; font-weight: bold; font-style: italic}
+.ads         {border-left:1px dotted #e5e5e5; border-bottom:1px dotted #e5e5e5; border-top:1px dotted #e5e5e5}
+.ads2        {border-right:1px dotted #e5e5e5; border-bottom:1px dotted #e5e5e5; border-top:1px dotted #e5e5e5}
+.boxad       {font-size:9px; font-family:verdana,sans-serif; font-weight: bold; color:#000000; background-color:#f5f5f5; text-decoration:none; letter-spacing: 1px}
+.footer      {font-size:11px; font-family:sans-serif; font-weight:normal; color:#666666; background-color:#ffffff; text-decoration:none; letter-spacing: 1px; border-top:1px solid #e5e5e5}
+.searchbox   {font-size:9px; font-family:sans-serif; font-weight:normal; color:#666666; background-color:#ffffff; text-decoration:none; letter-spacing: 0px}
+a.suchbutton {font-size:9px; font-weight: bold; background-color:#ffffff; letter-spacing: 0px}
+a			    {color:#006699; text-decoration:none}
+a:hover 	    {color:#ff9900; text-decoration:none}
